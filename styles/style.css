@@ -1,0 +1,187 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin:0;
+  background-color: yellow;
+}
+.container>nav:first-child{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  left: 0;
+  top: 0;
+  background-color: black;
+}
+.container>nav:nth-child(2){
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  left: 0;
+  top: 0;
+  right: 0;
+  background-color: black;
+}
+.container>nav:nth-child(3){
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  background-color: black;
+}
+.container>nav:nth-child(4){
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  background-color: black;
+}
+.container>nav:nth-child(5){
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  bottom: 0;
+  right: 0;
+  background-color: black;
+}
+.container>nav:nth-child(6){
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  left: 0;
+  bottom:  0;
+  right: 0;
+  background-color: black;
+}
+.container>nav:nth-child(7){
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  left: 0;
+  bottom: 0;
+  background-color: black;
+}
+.container>nav:nth-child(8){
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: black;
+}
+.container>nav:nth-child(9){
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  bottom: 0;
+  left: 0;
+  top: 0;
+  right: 0;
+  background-color: black;
+}
+.uno{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  top: 0;
+  left: 0;
+  background-color: blue;
+}
+.dos{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: blue;
+}
+.tres{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  background-color: blue;
+}
+.cuatro{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: blue;
+}
+.cinco{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  bottom: 0;
+  right: 0;
+  background-color: blue;
+}
+.seis{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: blue;
+}
+.siete{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  bottom: 0;
+  left: 0;
+  background-color: blue;
+}
+.ocho{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: blue;
+}
+.nueve{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: blue;
+}
